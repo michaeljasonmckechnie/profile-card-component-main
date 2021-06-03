@@ -21,7 +21,7 @@ body {
 
 main {
     align-items: center;
-    background: url("../images/bg-pattern-card.svg"), #fff;
+    background: url("../images/bg-pattern-card.svg");
     background-position: left top;
     background-repeat: no-repeat;
     background-size: 100% auto;
